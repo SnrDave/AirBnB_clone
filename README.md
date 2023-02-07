@@ -1,4 +1,4 @@
-![Holberton school logo](https://secure.meetupstatic.com/photos/event/b/c/5/6/highres_475548214.jpeg)
+
 # AirBnB clone - The console
 
 
@@ -29,6 +29,6 @@ $
 ```
 
 ### Contact Info:
-#### Git: ChristianCampos-55
+#### Git: David
 
-#### Git: danielj32
+#### Git: David
